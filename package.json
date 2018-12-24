@@ -22,10 +22,10 @@
         "email": "i@rukhsarirshad.com"
     },
     "bugs": {
-        "url": "https://github.com/CodilitySolutions/Nativescript-blockCall/issues"
+        "url": "https://github.com/CodilitySolutions/nativescript-incallpopup/issues"
     },
     "license": "Apache-2.0",
-    "homepage": "https://github.com/CodilitySolutions/Nativescript-blockCall",
+    "homepage": "https://github.com/CodilitySolutions/nativescript-incallpopup",
     "readmeFilename": "README.md",
     "devDependencies": {
         "tns-core-modules": "^4.2.0",

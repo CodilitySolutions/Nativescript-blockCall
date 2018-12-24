@@ -1,6 +1,6 @@
 {
-    "name": "nativescript-incallpopup",
-    "version": "0.0.1",
+    "name": "nativescript-blockcall",
+    "version": "1.0.0",
     "main": "index.js",
     "nativescript": {
         "platforms": {
@@ -32,8 +32,8 @@
         "iOS"
     ],
     "author": {
-        "name": "Saleh Mahmood",
-        "email": "i@salehmahmood.com"
+        "name": "Rukhsar Irshad",
+        "email": "i@rukhsarirshad.com"
     },
     "bugs": {
         "url": "https://github.com/YourName/nativescript-yourplugin/issues"

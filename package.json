@@ -9,22 +9,22 @@
   "_id": "nativescript-block-call",
   "_inBundle": false,
   "_integrity": "sha1-8qncuovanj1UIBBL5oBArHQFeWw=",
-  "_location": "/nativescript-CallLog",
+  "_location": "/nativescript-block-call",
   "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
     "raw": "nativescript-block-call",
-    "name": "nativescript-CallLog",
-    "escapedName": "nativescript-CallLog",
-    "rawSpec": "1.0.6",
+    "name": "nativescript-block-call",
+    "escapedName": "nativescript-block-call",
+    "rawSpec": "1.0.0",
     "saveSpec": null,
-    "fetchSpec": "1.0.6"
+    "fetchSpec": "1.0.0"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/nativescript-CallLog/-/nativescript-CallLog-1.0.6.tgz",
+  "_resolved": "https://registry.npmjs.org/nativescript-CallLog/-/nativescript-block-call.tgz",
   "_shasum": "f56e80673d9870e4cbdbe01c31f195dad5d4ade3",
   "_spec": "1.0.6",
   "_where": "/Users/saleh/Projects/nativescript/mean-app-new",
@@ -43,7 +43,7 @@
   "nativescript": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kozakvoj/nativescript-CallLog.git"
+    "url": "git+https://github.com/kozakvoj/Nativescript-blockCall.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

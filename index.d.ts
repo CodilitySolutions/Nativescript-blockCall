@@ -1,4 +1,4 @@
-export declare class InAppCallPopup {
+export declare class BlockCall {
     constructor();
     register(): void;
 }

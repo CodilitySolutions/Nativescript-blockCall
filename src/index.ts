@@ -16,10 +16,10 @@ export class InAppCallPopup {
     }
 
     register() {
-        let filter = new android.content.IntentFilter();
-        filter.addAction(android.content.Intent.ACTION_NEW_OUTGOING_CALL);
-        // filter.addAction("NEW_OUTGOING_CALL");
+        // let filter = new android.content.IntentFilter();
+        // filter.addAction(android.content.Intent.ACTION_NEW_OUTGOING_CALL);
+        // // filter.addAction("NEW_OUTGOING_CALL");
 
-        context.registerReceiver(co.codility.nsincallpopup.CallReceiver["class"], filter);
+        // context.registerReceiver(co.codility.nsincallpopup.CallReceiver["class"], filter);
     }
 }

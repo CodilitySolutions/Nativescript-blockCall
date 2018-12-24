@@ -1,12 +1,12 @@
 {
   "_args": [
     [
-      "nativescript-CallLog@1.0.6",
+      "nativescript-block-call",
       "/Users/saleh/Projects/nativescript/mean-app-new"
     ]
   ],
-  "_from": "nativescript-CallLog@1.0.6",
-  "_id": "nativescript-CallLog@1.0.6",
+  "_from": "nativescript-block-call",
+  "_id": "nativescript-block-call",
   "_inBundle": false,
   "_integrity": "sha1-8qncuovanj1UIBBL5oBArHQFeWw=",
   "_location": "/nativescript-CallLog",
@@ -14,7 +14,7 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "nativescript-CallLog@1.0.6",
+    "raw": "nativescript-block-call",
     "name": "nativescript-CallLog",
     "escapedName": "nativescript-CallLog",
     "rawSpec": "1.0.6",
@@ -39,7 +39,7 @@
   "gitHead": "570da038b1608119eb9a85f42995d8807ef50a96",
   "homepage": "https://github.com/kozakvoj/nativescript-CallLog#readme",
   "main": "index.js",
-  "name": "nativescript-CallLog",
+  "name": "nativescript-block-call",
   "nativescript": {},
   "repository": {
     "type": "git",
@@ -48,5 +48,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.6"
+  "version": "1.0.0"
 }

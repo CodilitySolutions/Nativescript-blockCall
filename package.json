@@ -1,5 +1,5 @@
 {
-    "name": "nativescript-incallpopup",
+    "name": "nativescript-callblocking",
     "version": "0.0.1",
     "main": "index.js",
     "nativescript": {
@@ -18,14 +18,14 @@
         "iOS"
     ],
     "author": {
-        "name": "Saleh Mahmood",
-        "email": "i@salehmahmood.com"
+        "name": "Rukhsar irshad",
+        "email": "i@rukhsarirshad.com"
     },
     "bugs": {
-        "url": "https://github.com/CodilitySolutions/nativescript-incallpopup/issues"
+        "url": "https://github.com/CodilitySolutions/Nativescript-blockCall/issues"
     },
     "license": "Apache-2.0",
-    "homepage": "https://github.com/CodilitySolutions/nativescript-incallpopup",
+    "homepage": "https://github.com/CodilitySolutions/Nativescript-blockCall",
     "readmeFilename": "README.md",
     "devDependencies": {
         "tns-core-modules": "^4.2.0",

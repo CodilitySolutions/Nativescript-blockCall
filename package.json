@@ -1,40 +1,52 @@
 {
-    "name": "nativescript-callblocking",
-    "version": "0.0.1",
-    "main": "index.js",
-    "nativescript": {
-        "platforms": {
-            "ios": "4.0.0",
-            "android": "4.1.0"
-        }
-    },
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-        "NativeScript",
-        "JavaScript",
-        "Android",
-        "iOS"
-    ],
-    "author": {
-        "name": "Rukhsar irshad",
-        "email": "i@rukhsarirshad.com"
-    },
-    "bugs": {
-        "url": "https://github.com/CodilitySolutions/nativescript-incallpopup/issues"
-    },
-    "license": "Apache-2.0",
-    "homepage": "https://github.com/CodilitySolutions/nativescript-incallpopup",
-    "readmeFilename": "README.md",
-    "devDependencies": {
-        "tns-core-modules": "^4.2.0",
-        "tns-platform-declarations": "^4.2.0",
-        "typescript": "~2.8.2",
-        "prompt": "^1.0.0",
-        "rimraf": "^2.6.2",
-        "tslint": "^5.11.0",
-        "semver": "^5.5.0"
-    },
-    "dependencies": {}
+  "_args": [
+    [
+      "nativescript-CallLog@1.0.6",
+      "/Users/saleh/Projects/nativescript/mean-app-new"
+    ]
+  ],
+  "_from": "nativescript-CallLog@1.0.6",
+  "_id": "nativescript-CallLog@1.0.6",
+  "_inBundle": false,
+  "_integrity": "sha1-8qncuovanj1UIBBL5oBArHQFeWw=",
+  "_location": "/nativescript-CallLog",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "nativescript-CallLog@1.0.6",
+    "name": "nativescript-CallLog",
+    "escapedName": "nativescript-CallLog",
+    "rawSpec": "1.0.6",
+    "saveSpec": null,
+    "fetchSpec": "1.0.6"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-CallLog/-/nativescript-CallLog-1.0.6.tgz",
+  "_shasum": "f56e80673d9870e4cbdbe01c31f195dad5d4ade3",
+  "_spec": "1.0.6",
+  "_where": "/Users/saleh/Projects/nativescript/mean-app-new",
+  "author": {
+    "name": "Vojtech Kozak"
+  },
+  "bugs": {
+    "url": "https://github.com/kozakvoj/nativescript-CallLog/issues"
+  },
+  "dependencies": {},
+  "description": "Provides call log history for NativeScript mobile applications.",
+  "gitHead": "570da038b1608119eb9a85f42995d8807ef50a96",
+  "homepage": "https://github.com/kozakvoj/nativescript-CallLog#readme",
+  "main": "index.js",
+  "name": "nativescript-CallLog",
+  "nativescript": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kozakvoj/nativescript-CallLog.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.6"
 }

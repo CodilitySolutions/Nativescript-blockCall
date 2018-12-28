@@ -18,6 +18,7 @@ exports.rejectCall = function (args) {
        ur =  context.getContentResolver().insert(blocknumber.BlockedNumbers.CONTENT_URI, values);
         
             resolve({data: "call is rejected", response: "fetch"});
+            console.log("testing");
        
     });
 };

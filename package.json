@@ -1,40 +1,53 @@
 {
-    "name": "nativescript-blockcall",
-    "version": "1.0.0",
-    "main": "index.js",
-    "nativescript": {
-        "platforms": {
-            "ios": "4.0.0",
-            "android": "4.1.0"
-        }
-    },
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-        "NativeScript",
-        "JavaScript",
-        "Android",
-        "iOS"
+    "_args": [
+      [
+        "nativescript-BlockCall",
+        "/Users/saleh/Projects/nativescript/mean-app-new"
+      ]
     ],
+    "_from": "nativescript-BlockCall",
+    "_id": "nativescript-BlockCall",
+    "_inBundle": false,
+    "_integrity": "sha1-8qncuovanj1UIBBL5oBArHQFeWw=",
+    "_location": "/nativescript-BlockCall",
+    "_phantomChildren": {},
+    "_requested": {
+      "type": "version",
+      "registry": true,
+      "raw": "nativescript-BlockCall",
+      "name": "nativescript-BlockCall",
+      "escapedName": "nativescript-BlockCall",
+      "rawSpec": "1.0.0",
+      "saveSpec": null,
+      "fetchSpec": "1.0.0"
+    },
+    "_requiredBy": [
+      "/"
+    ],
+    "_resolved": "https://registry.npmjs.org/nativescript-BlockCall/-/nativescript-BlockCall-1.0.0.tgz",
+    "_shasum": "f56e80673d9870e4cbdbe01c31f195dad5d4ade3",
+    "_spec": "1.0.0",
+    "_where": "/Users/saleh/Projects/nativescript/mean-app-new",
     "author": {
-        "name": "Rukhsar Irshad",
-        "email": "i@rukhsarirshad.com"
+      "name": "Vojtech Kozak"
     },
     "bugs": {
-        "url": "https://github.com/CodilitySolutions/Nativescript-blockCall/issues"
+      "url": "https://github.com/kozakvoj/nativescript-BlockCall/issues"
     },
-    "license": "Apache-2.0",
-    "homepage": "https://github.com/CodilitySolutions/Nativescript-blockCall",
-    "readmeFilename": "README.md",
-    "devDependencies": {
-        "tns-core-modules": "^4.2.0",
-        "tns-platform-declarations": "^4.2.0",
-        "typescript": "~2.8.2",
-        "prompt": "^1.0.0",
-        "rimraf": "^2.6.2",
-        "tslint": "^5.11.0",
-        "semver": "^5.5.0"
+    "dependencies": {},
+    "description": "Provides call log history for NativeScript mobile applications.",
+    "gitHead": "570da038b1608119eb9a85f42995d8807ef50a96",
+    "homepage": "https://github.com/kozakvoj/nativescript-BlockCall#readme",
+    "main": "index.js",
+    "name": "nativescript-BlockCall",
+    "nativescript": {},
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/kozakvoj/nativescript-BlockCall.git"
     },
-    "dependencies": {}
-}
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "1.0.0"
+  }
+  
